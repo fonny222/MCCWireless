@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MCC Wireless</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="txtTitle">MCC Wireless Deals!!</string>
+    <string name="txtOffer1">Unlimited Phone Data $50 Per Month!</string>
+    <string name="txtOffer2">20GB of Tablet Data $30 Per Month!</string>
+    <string name="txtOffer3">20GB of MBB Data $30 Per Month!</string>
+    <string name="radPhone">Phone Offer</string>
+    <string name="radPhoneTablet">Phone and Tablet Offers</string>
+    <string name="radPhoneTabletMBB">Phone, Tablet and MBB Offers</string>
+</resources>
